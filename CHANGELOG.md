@@ -14,5 +14,6 @@ All notable changes to this project will be documented in this file.
 ### Change
 
 - Updated angular to 17.0.8
+- Added angular ssr, pwa and flowbite
 
 <!-- GameDB by Carlos O. Castillo -->
